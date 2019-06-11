@@ -1,30 +1,7 @@
-## Welcome to GitHub Pages
+Welcome to Museli!
 
-You can use the [editor on GitHub](https://github.com/JesslynJanssen/Museli/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Museli is an IOS app for creating and sharing videos. With Museli, you can create video montages with filters, music and many other special effects. You can share videos to the Museli network and discover other user's creations with the discovery page. You can also share your videos on Instagram and Facebook directly from the app. You can also follow and connect with other users to keep up with their content. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Museli
+For any questions, please contact Jesslyn at jesslynjanssen7@gmail.com. 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JesslynJanssen/Museli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
